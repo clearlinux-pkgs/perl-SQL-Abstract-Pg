@@ -1,0 +1,5 @@
+1.0
+perl(Moo)
+perl(SQL::Abstract)
+perl(Sub::Quote)
+perl(Test::Deep)
