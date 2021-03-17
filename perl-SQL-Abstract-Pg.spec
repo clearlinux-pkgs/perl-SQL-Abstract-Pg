@@ -4,7 +4,7 @@
 #
 Name     : perl-SQL-Abstract-Pg
 Version  : 1.0
-Release  : 1
+Release  : 2
 URL      : https://cpan.metacpan.org/authors/id/S/SR/SRI/SQL-Abstract-Pg-1.0.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SR/SRI/SQL-Abstract-Pg-1.0.tar.gz
 Summary  : 'PostgreSQL features for SQL::Abstract'
@@ -99,4 +99,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/SQL/Abstract/Pg.pm
+/usr/lib/perl5/vendor_perl/5.32.1/SQL/Abstract/Pg.pm
