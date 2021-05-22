@@ -4,7 +4,7 @@
 #
 Name     : perl-SQL-Abstract-Pg
 Version  : 1.0
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/S/SR/SRI/SQL-Abstract-Pg-1.0.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SR/SRI/SQL-Abstract-Pg-1.0.tar.gz
 Summary  : 'PostgreSQL features for SQL::Abstract'
